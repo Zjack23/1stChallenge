@@ -1,6 +1,6 @@
 Code Refactor README
 
-The html I Replaced non-semantic div elements with elements such as header, nav, section, main, article, and footer.
+I Replaced non-semantic div elements in the html with elements such as header, nav, section, main, article, and footer.
 I Added accessible alt attributes to all images.
 I Ensured heading elements are in sequential order (h1, h2, h3).
 Then Updated the title element to be more descriptive and concise.
